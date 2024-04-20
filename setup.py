@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='simple_calculator',
+    name='simpleCalculatorPlan11',
     version='0.0.1',
     description='simple calculator',
     author='jins',
